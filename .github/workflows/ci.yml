@@ -1,5 +1,9 @@
 name: dropwizard-continous-integration
 
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   build-and-test:
