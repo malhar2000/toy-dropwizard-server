@@ -34,5 +34,5 @@ The original project is created by cakraww and is stored at [dropwizard-gradle](
 This repo contains only the adjusted version of the other one, only for learning purposes.
 
 
-
+test lgtm
 A new line
